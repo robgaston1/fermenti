@@ -159,10 +159,6 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-brand.active {
   color: #fec503;
 }
-.navbar-custom .navbar-brand img {
-  width: 100px;
-  height: 100px;
-}
 .navbar-custom .navbar-collapse {
   border-color: rgba(255, 255, 255, 0.02);
 }
@@ -236,7 +232,6 @@ header {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: 0% 30%;
-  background-size: 100%;
   text-align: center;
   color: white;
 }
