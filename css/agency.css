@@ -229,6 +229,7 @@ fieldset[disabled] .btn-xl.active {
 }
 header {
   background-image: url('../img/4-jar-horizontal.jpg');
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: 0% 30%;
